@@ -41,8 +41,8 @@ function App() {
       <div className="content">
         <img src={logoImg} alt="Logo" className="main-logo" />
         <h1>Phasmo Codex</h1>
-        <div className="subtitle">
-          by Franz |
+        <div className="subtitle">by
+          <a href="https://steamcommunity.com/id/franzschizoid" target="_blank" rel="noopener noreferrer"> Franz</a> |
           <a href="https://github.com/ahhfranz" target="_blank" rel="noopener noreferrer"> GitHub</a> |
           <a href="https://discord.gg/Qs6tHSKJTr" target="_blank" rel="noopener noreferrer"> Discord</a> |
           <a href="https://ko-fi.com/franzlabs" target="_blank" rel="noopener noreferrer"> Donar</a>
