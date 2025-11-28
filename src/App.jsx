@@ -43,7 +43,7 @@ function App() {
         <h1>Phasmo Codex</h1>
         <div className="subtitle">
           by Franz |
-          <a href="https://github.com/ahhfranz" target="_blank" rel="noopener noreferrer"> GitHub</a> |
+          <a href="https://github.com/bisfranz" target="_blank" rel="noopener noreferrer"> GitHub</a> |
           <a href="https://discord.gg/Qs6tHSKJTr" target="_blank" rel="noopener noreferrer"> Discord</a> |
           <a href="https://ko-fi.com/franzlabs" target="_blank" rel="noopener noreferrer"> Donar</a>
         </div>
